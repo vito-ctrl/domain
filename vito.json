@@ -5,5 +5,8 @@
   },
   "record": {
     "CNAME": "vito-ctrl.github.io"
-  }
+  },
+  "TXT": [
+    "resend-domain-verification=bf00b016917622df6de65aa0b5cf32a6"
+  ]
 }
